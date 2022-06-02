@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Pitbull Dog</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<div class="DescriptionBoxJPG">
+	
+		<!-- your favorite animal's name goes here -->
+		<h3>Pitbull Dog</h3>
+		
+		<!-- your favorite animal's image goes here -->
+		<img src="dog.jpg" alt="Pitbull Dog" width="300px" class="DogPic ">
+		
+	
+		
+		<div class="DescriptionBox">
+		
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="InterestingFacts">Pitbull dogs are cute! This is Mat a pitbull dog 
+			named after his father. The most huggable dog on earth. </p>
+			
+			<ul class="DogList">
+				<!-- your favorite animal's list items go here -->
+				<li><span><strong>Name</strong></span>: Pitbull</li>
+				<li><span><strong>Age</strong></span>: 6 months</li>
+				<li><span><strong>Race</strong></span>: Pitbull</li>
+				<li><span><strong>Favorite Sport</strong></span>: Runing</li>
+			</ul>
+			
+			<!-- your favorite animal's description goes here -->
+			<p>All dogs are cute but Pitbulls just make your heart mealth because of there cuteness.</p>
+			
+		</div>
+		
+	</div>
+	
+</body>
+</html>
